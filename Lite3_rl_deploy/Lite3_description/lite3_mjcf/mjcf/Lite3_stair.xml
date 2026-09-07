@@ -1,0 +1,7 @@
+<mujoco model="Lite3_stair">
+    <include file="../../../third_party/deep_robotics_model/Lite3/Lite3_mjcf/mjcf/Lite3.xml"/>
+    <!-- scene.xml is a large imported building (2185 meshes) whose movable
+         body surrounds the robot and occludes much of the viewer.  The Lite3
+         model already supplies the ground plane, so it is not needed here. -->
+    <include file="./stair.xml"/>
+</mujoco>
