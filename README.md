@@ -7,6 +7,10 @@
 进行 Sim2Sim 验证，最终将训练得到的策略部署至 DeepRobotics Lite3
 真实机器人。
 
+rl_training:Issac lab平面移动训练代码（前进/后退/转向/横移）
+rl_up_training:Issac lab上楼梯训练代码
+Lite3_rl_deploy:Issac lab训练后mojoco sim to sim部署代码
+
 
 - Sim2Sim 验证
 
