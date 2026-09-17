@@ -13,5 +13,7 @@
 - 转向
 - 复杂地形运动
 - 上楼梯
+![Lite3 RL Locomotion](gif/lup_stairs.gif)
+  
 - Sim2Sim 验证
 - Sim2Real 真机部署
