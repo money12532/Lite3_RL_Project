@@ -7,13 +7,24 @@
 进行 Sim2Sim 验证，最终将训练得到的策略部署至 DeepRobotics Lite3
 真实机器人。
 
+
 - Sim2Sim 验证
+
 - 前进/后退
+  
 ![Lite3 RL Locomotion](gif/go_forward.gif)
+
+
 - 左右横移/转向
+  
 ![Lite3 RL Locomotion](gif/left_right.gif)
-- 上楼梯
+
+
+- 上楼梯(3倍速)
+  
 ![Lite3 RL Locomotion](gif/up_stairs.gif)
+
   
 - Sim2Real 真机部署
+- 
 ![Lite3 RL Locomotion](gif/sim2real.gif)
